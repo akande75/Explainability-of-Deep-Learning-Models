@@ -1,5 +1,7 @@
 # Explainability-of-Deep-Learning-Models
 
+Google Colab Link: https://drive.google.com/file/d/1vyUp4ln7KXEPPNGkpduffjkrX7IUDYJs/view?usp=sharing
+
 **Project Overview:**
 This project investigates the application of Explainable Artificial Intelligence (XAI) techniques to convolutional neural networks (CNNs) deployed on real-world image data. The study focuses on improving transparency, trust, and interpretability of deep learning models by analysing how and why predictions are made, rather than only evaluating predictive accuracy.
 A vehicle advertisement image dataset was used as a realistic testbed, where models were trained to detect the presence of vendor contact information (e.g. phone numbers, email addresses, URLs). Although non-medical in nature, the methodological framework is transferable to safety-critical domains such as medical imaging and longitudinal analysis.
