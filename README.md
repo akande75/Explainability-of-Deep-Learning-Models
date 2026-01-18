@@ -1,5 +1,4 @@
 # Explainability-of-Deep-Learning-Models
-Explainability of Deep Learning Models for Image Classification
 
 **Project Overview:**
 This project investigates the application of Explainable Artificial Intelligence (XAI) techniques to convolutional neural networks (CNNs) deployed on real-world image data. The study focuses on improving transparency, trust, and interpretability of deep learning models by analysing how and why predictions are made, rather than only evaluating predictive accuracy.
